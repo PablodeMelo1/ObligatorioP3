@@ -11,7 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="EntidadesDominio\" />
     <Folder Include="InterfacesRepositorios\" />
     <Folder Include="InterfacesDominio\" />
     <Folder Include="ValueObjects\" />

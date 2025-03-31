@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\Presentacion\\Presentacion.csproj": {}
+    "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\Presentacion\\Presentacion.csproj": {}
   },
   "projects": {
-    "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\CasosUso\\CasosUso.csproj": {
+    "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\CasosUso\\CasosUso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\CasosUso\\CasosUso.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\CasosUso\\CasosUso.csproj",
         "projectName": "CasosUso",
-        "projectPath": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\CasosUso\\CasosUso.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\CasosUso\\CasosUso.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\CasosUso\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\CasosUso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -65,18 +65,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
+    "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
         "projectName": "ExcepcionesPropias",
-        "projectPath": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\ExcepcionesPropias\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,7 +91,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -109,7 +108,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -130,18 +130,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\Presentacion\\Presentacion.csproj": {
+    "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\Presentacion\\Presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\Presentacion\\Presentacion.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\Presentacion\\Presentacion.csproj",
         "projectName": "Presentacion",
-        "projectPath": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\Presentacion\\Presentacion.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\Presentacion\\Presentacion.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\Presentacion\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\Presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -156,18 +156,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\CasosUso\\CasosUso.csproj": {
-                "projectPath": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\CasosUso\\CasosUso.csproj"
+              "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\CasosUso\\CasosUso.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\CasosUso\\CasosUso.csproj"
               },
-              "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
-                "projectPath": "D:\\ORT\\Semestre 3\\P3\\05-SolucionBaseLibreria\\ExcepcionesPropias\\ExcepcionesPropias.csproj"
+              "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\ExcepcionesPropias.csproj"
               }
             }
           }
@@ -181,7 +180,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -205,7 +205,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
