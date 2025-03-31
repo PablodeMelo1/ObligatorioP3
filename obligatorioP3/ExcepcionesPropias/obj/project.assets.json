@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
+      "projectUniqueName": "D:\\Git\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
       "projectName": "ExcepcionesPropias",
-      "projectPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
+      "projectPath": "D:\\Git\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\obj\\",
+      "outputPath": "D:\\Git\\ObligatorioP3\\obligatorioP3\\ExcepcionesPropias\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

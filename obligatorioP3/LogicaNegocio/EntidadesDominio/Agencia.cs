@@ -9,12 +9,14 @@ namespace LogicaNegocio.EntidadesDominio
 {
     class Agencia
     {
+        public int id { get; set; }
         public string nombre { get; set; }
         public string direccionPostal { get; set; }
         public int latitud { get; set; }
         public int longitud { get; set; }
         public Agencia(string nombre, string direccionPostal, int latitud, int longitud)
         {
+            this.id = id++;
             this.nombre = nombre;
             this.direccionPostal = direccionPostal;
             this.latitud = latitud;

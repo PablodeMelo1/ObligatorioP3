@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\",
+  "WorkspaceRootPath": "D:\\Git\\ObligatorioP3\\obligatorioP3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\user\\desktop\\ort\\p3\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\user\\desktop\\ort\\p3\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\comun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\comun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\user\\desktop\\ort\\p3\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\user\\desktop\\ort\\p3\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\etapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\etapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\user\\desktop\\ort\\p3\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\urgente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\urgente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\user\\desktop\\ort\\p3\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|d:\\git\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\user\\desktop\\ort\\p3\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|d:\\git\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\urgente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\urgente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|d:\\git\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\comun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\comun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|d:\\git\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|d:\\git\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|d:\\git\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\etapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\etapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|d:\\git\\obligatoriop3\\obligatoriop3\\logicanegocio\\entidadesdominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E217F825-AAD6-4355-BEC1-E1F337A50113}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{770D659B-A079-4BAD-8F6C-F688A89ED714}|Presentacion\\Presentacion.csproj|c:\\users\\user\\desktop\\ort\\p3\\obligatoriop3\\obligatoriop3\\presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{770D659B-A079-4BAD-8F6C-F688A89ED714}|Presentacion\\Presentacion.csproj|d:\\git\\obligatoriop3\\obligatoriop3\\presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{770D659B-A079-4BAD-8F6C-F688A89ED714}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,15 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Comun.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Comun.cs",
+              "DocumentMoniker": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Comun.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Comun.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Comun.cs",
+              "ToolTip": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Comun.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Comun.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Urgente.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Urgente.cs",
+              "DocumentMoniker": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Urgente.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Urgente.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Urgente.cs",
+              "ToolTip": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Urgente.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Urgente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,37 +76,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Envio.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Envio.cs",
+              "DocumentMoniker": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Envio.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Envio.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Envio.cs",
+              "ToolTip": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Envio.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Envio.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAzwCAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T00:26:11.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Etapa.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Etapa.cs",
+              "DocumentMoniker": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Etapa.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Etapa.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Etapa.cs",
+              "ToolTip": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Etapa.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Etapa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T00:23:01.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T00:23:01.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Comentario.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Comentario.cs",
+              "DocumentMoniker": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Comentario.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Comentario.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Comentario.cs",
+              "ToolTip": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Comentario.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Comentario.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAwA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,42 +114,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Agencia.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Agencia.cs",
+              "DocumentMoniker": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Agencia.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Agencia.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Agencia.cs",
+              "ToolTip": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Agencia.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Agencia.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T00:13:37.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T00:13:37.327Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Usuario.cs",
+              "DocumentMoniker": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Usuario.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Usuario.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Usuario.cs",
+              "ToolTip": "D:\\Git\\ObligatorioP3\\obligatorioP3\\LogicaNegocio\\EntidadesDominio\\Usuario.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Usuario.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAawBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T00:07:26.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T00:07:26.264Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\Presentacion\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Git\\ObligatorioP3\\obligatorioP3\\Presentacion\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Presentacion\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ort\\P3\\ObligatorioP3\\obligatorioP3\\Presentacion\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Git\\ObligatorioP3\\obligatorioP3\\Presentacion\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Presentacion\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:42:16.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T23:42:16.965Z"
             }
           ]
         }

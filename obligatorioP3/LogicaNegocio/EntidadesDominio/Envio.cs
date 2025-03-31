@@ -15,22 +15,24 @@ namespace LogicaNegocio.EntidadesDominio
         public Usuario cliente { get; set; }
         public tipoEstadoPack estado { get; set; }
         public double peso { get; set; }
+        public List<Etapa> etapas { get; set; }
 
-        public Envio(int id, int numTracking, Usuario empleado, Usuario cliente, tipoEstadoPack estado, double peso)
+        public Envio(int id, int numTracking, Usuario empleado, Usuario cliente, tipoEstadoPack estado, double peso, List<Etapa> etapas)
         {
-            this.id = id;
+            this.id = id++;
             this.numTracking = numTracking;
             this.empleado = empleado;
             this.cliente = cliente;
             this.estado = estado;
             this.peso = peso;
+            etapas = new List<Etapa>();
         }
 
         public void cambiarEstado()
         {
-            if (estado == tipoEstadoPack.EnProceso)
+            if (estado == tipoEstadoPack.EN_PROCESO)
             {
-                estado = tipoEstadoPack.Finalizado;
+                estado = tipoEstadoPack.FINALIZADO;
             }
             else
             {
